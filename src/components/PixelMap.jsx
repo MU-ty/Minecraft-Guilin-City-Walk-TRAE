@@ -142,7 +142,7 @@ const PixelMap = ({ activeRouteId, onPointClick, activeEventId, onEventClick }) 
       ))}
 
       {/* Legend (MC UI) */}
-      <div className="absolute top-6 left-6 bg-mc-ui p-4 border-4 border-black text-[10px] font-pixel space-y-3 shadow-mc z-50">
+      <div className="absolute top-6 left-6 bg-mc-ui p-4 border-4 border-black text-[10px] font-pixel space-y-3 shadow-mc z-5">
         <div className="flex items-center gap-3"><div className="w-4 h-4 bg-mc-gold border-2 border-black" /> 中心城</div>
         <div className="flex items-center gap-3"><div className="w-4 h-4 bg-purple-600 border-2 border-white" /> TRAE 活动</div>
         <div className="flex items-center gap-3"><div className="w-4 h-4 bg-mc-dirt border-2 border-black" /> 人文历史</div>
