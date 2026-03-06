@@ -1,3 +1,4 @@
+// Minecraft Guilin City Walk - Last Updated: 2026-03-06
 import React, { useState, useEffect } from 'react';
 import { motion, useScroll, useSpring } from 'framer-motion';
 import Hero from './components/Hero';
