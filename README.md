@@ -1,6 +1,6 @@
 # 🟩 Minecraft Guilin City Walk | 桂林像素漫步 🏔️
 
-这是一个将 **桂林山水** 与 **Minecraft (MC) 像素艺术风格** 完美融合的城市漫步导览网站。
+这是一个将 **桂林山水** 与 **Minecraft (MC) 像素艺术风格** 与**TRAE**完美融合的城市漫步导览网站。
 
 [![Deploy to GitHub Pages](https://github.com/MU-ty/guilin-travel-and-trae/actions/workflows/deploy.yml/badge.svg)](https://github.com/MU-ty/guilin-travel-and-trae/actions/workflows/deploy.yml)
 
