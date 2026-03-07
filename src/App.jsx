@@ -141,8 +141,8 @@ const Footer = () => (
       <div>
         <h4 className="font-bold text-base mb-10 text-mc-gold uppercase">联系管理员</h4>
         <ul className="space-y-6 text-gray-400 text-xs font-readable">
-          <li>坐标：桂林市秀峰区东西巷</li>
-          <li>邮件：mc@guilinwalk.com</li>
+          <li>坐标：桂林电子科技大学花江校区</li>
+          <li>邮件：3417633465@qq.com</li>
         </ul>
       </div>
     </div>
